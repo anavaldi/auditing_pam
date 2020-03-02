@@ -1,1 +1,6 @@
-# auditing_pam
+# Governance in online citizen participation
+
+Cities over the world are witnessing a growing trend towards digital technologies for participatory processes. 
+As a result, many online platforms have been developed to encourage citizens to propose citywide improvements. Yet these processes have a lack of an audit method to assess whether the petitions of individuals is effectively taken into account. 
+
+In this paper we propose a first methodology to examine participatory-democracy platforms. We focus on the case of Decidim Barcelona in which both Administration and citizens created proposals for the the urban planning process of the city. This approach allows to evaluate whether descriptions of accepted proposals were reflected to define the final action to be implemented by analyzing its content. This makes it a challenge because this platform is the only one that is considered bilingual. The results show that texts of actions are more likely to convey proposals authored by the municipal government, which reveals that this participatory process should be improved in future editions to consider more the public opinion. Finally, we showcase our methodology with two illustrative cases that hint potential shortcomings of the participatory process.
