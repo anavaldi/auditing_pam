@@ -1,4 +1,4 @@
-# Governance in online citizen participation
+# Auditing the urban planning process in Decidim Barcelona
 
 Cities all over the world are undergoing a significant shift towards civic technologies. Local governments are deploying these technologies to scale up civic participation and transform decision-making: they allow a large number of citizens to generate proposals for new public policies. However, not all the resources of public institutions for these processes scale in the same way. The large number of proposals resulting from the increase in citizen participation triggered by civic technologies becomes a major challenge for public servants, who are responsible for their evaluation and conversion into public policies.
 
